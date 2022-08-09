@@ -1,0 +1,11 @@
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Release\vipusk.exe.config
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Release\vipusk.exe
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Release\vipusk.pdb
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.Form1.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.Practic.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.Properties.Resources.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.Theory.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.exe
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.pdb
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Release\vipusk.csprojResolveAssemblyReference.cache

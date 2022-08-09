@@ -1,0 +1,34 @@
+C:\Users\Venya\Desktop\vipusk\vipusk\bin\Debug\vipusk.exe.config
+C:\Users\Venya\Desktop\vipusk\vipusk\bin\Debug\vipusk.exe
+C:\Users\Venya\Desktop\vipusk\vipusk\bin\Debug\vipusk.pdb
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.csprojResolveAssemblyReference.cache
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.Form1.resources
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.Properties.Resources.resources
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.Theory.resources
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.csproj.GenerateResource.Cache
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.exe
+C:\Users\Venya\Desktop\vipusk\vipusk\obj\Debug\vipusk.pdb
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Debug\vipusk.exe.config
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.exe
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.pdb
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Debug\vipusk.exe
+C:\Users\Ivan\Desktop\vipusk\vipusk\bin\Debug\vipusk.pdb
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.Form1.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.Properties.Resources.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.Theory.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.Practic.resources
+C:\Users\Ivan\Desktop\vipusk\vipusk\obj\Debug\vipusk.csprojResolveAssemblyReference.cache
+D:\Time manager\vipusk\bin\Debug\vipusk.exe.config
+D:\Time manager\vipusk\bin\Debug\vipusk.exe
+D:\Time manager\vipusk\bin\Debug\vipusk.pdb
+D:\Time manager\vipusk\obj\Debug\vipusk.csproj.AssemblyReference.cache
+D:\Time manager\vipusk\obj\Debug\vipusk.csproj.SuggestedBindingRedirects.cache
+D:\Time manager\vipusk\obj\Debug\vipusk.Form1.resources
+D:\Time manager\vipusk\obj\Debug\vipusk.Practic.resources
+D:\Time manager\vipusk\obj\Debug\vipusk.Properties.Resources.resources
+D:\Time manager\vipusk\obj\Debug\vipusk.Theory.resources
+D:\Time manager\vipusk\obj\Debug\vipusk.csproj.GenerateResource.cache
+D:\Time manager\vipusk\obj\Debug\vipusk.csproj.CoreCompileInputs.cache
+D:\Time manager\vipusk\obj\Debug\vipusk.exe
+D:\Time manager\vipusk\obj\Debug\vipusk.pdb
